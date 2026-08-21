@@ -14,8 +14,8 @@
 🌱 &nbsp;I'm currently learning **Multi-agent orchestration patterns and coordinating agents that hand off tasks to each other reliably**  
 👯 &nbsp;I'm looking to collaborate on **RAG pipelines and agentic workflows on Azure ,open to pairing on real production use cases**  
 🤔 &nbsp;I'm looking for help with **Evaluating LLM outputs at scale for building reliable eval frameworks beyond manual spot-checks**  
-💬 &nbsp;Ask me about **Azure AI, Copilot Studio, RAG architecture, or Microsoft Fabric**  
-⚡ &nbsp;Fun fact: **11 Microsoft certifications across Azure, AI, and data platforms**
+💬 &nbsp; **Azure AI, Copilot Studio, Power Apps, AI Automation RAG , or Microsoft Fabric**  
+⚡ &nbsp;: **11 Microsoft certifications across Azure, AI, and data platforms**
 
 ### 🛠️ Tech Stack
 
