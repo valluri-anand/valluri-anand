@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/vallurianand01-commits">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=538&text=%3E%20Hi%20Hello%20iam" alt="&gt; Hi Hello iam" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=538&text=%3E%20Hi%20Hello%20iam" alt="&gt; Hi Iam Valluri Anand " />
   </a>
 </p>
 
@@ -10,11 +10,11 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Building a RAG platform on Azure OpenAI + AI Search for querying financial reports conversationally**  
-🌱 &nbsp;I'm currently learning **Multi-agent orchestration patterns and coordinating agents that hand off tasks to each other reliably**  
-👯 &nbsp;I'm looking to collaborate on **RAG pipelines and agentic workflows on Azure ,open to pairing on real production use cases on Microsoft Stack**  
-🤔 &nbsp;I'm looking for help with **Evaluating LLM outputs at scale for building reliable eval frameworks beyond manual spot-checks**  
-💬 &nbsp; **Azure AI, Copilot Studio, Power Apps, AI Automation RAG , or Microsoft Fabric**  
+🔭 &nbsp;I'm Working on **Building a RAG platform on Azure OpenAI + AI Search for querying financial reports conversationally**  
+🌱 &nbsp; Learning **Multi-agent orchestration patterns and coordinating agents that hand off tasks to each other reliably**  
+👯 &nbsp; Open to collaborate on **RAG pipelines and agentic workflows on Azure ,open to pairing on real production use cases on Microsoft Stack**  
+🤔 &nbsp; Excited for **Evaluating LLM outputs at scale for building reliable eval frameworks beyond manual spot-checks**  
+💬 &nbsp; **Azure AI, Copilot Studio, Power Platform, AI Automation RAG , or Microsoft Fabric**  
 ⚡ &nbsp;: **11 Microsoft certifications across Azure, AI, and data platforms**
 
 
