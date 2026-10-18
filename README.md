@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-vanand6701@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/transcript?tab=credentials-tab" target="_blank">
-    <img src="https://img.shields.io/badge/Certifications-11x%20Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="13x Microsoft Certified" />
+    <img src="https://img.shields.io/badge/Certifications-13x%20Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="13x Microsoft Certified" />
   <a href="https://www.credly.com/badges/20c9a1d0-8855-4d6b-a8d0-0cb998ecdf46" target="_blank">
     <img src="https://img.shields.io/badge/Accenture-Agentic_AI_Certified-A100FF?style=for-the-badge&logo=accenture&logoColor=white" alt="Accenture Agentic AI Certified" />
   </a>
