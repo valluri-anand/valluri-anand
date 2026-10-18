@@ -97,7 +97,7 @@ AI Engineer with **2.5 YOE at Accenture** specializing in architecting and shipp
 ### 🌟 Featured Projects & Implementations
 
 #### 📈 [AI-Powered Financial Intelligence Platform](https://github.com/vallurianand01-commits/ai-business-intelligent-platform-)
-> **Enterprise RAG • Azure OpenAI (GPT-4o) • Azure AI Search • FastAPI • PostgreSQL • AKS**
+> **Enterprise RAG • Azure OpenAI (GPT-5) • Azure AI Search • FastAPI • PostgreSQL • AKS**
 - Ingested **150+ financial reports (12,000+ pages)** into structured Markdown, maintaining multi-level tables and financial context.
 - Engineered a hybrid semantic search pipeline achieving **92% retrieval accuracy** and **94% context groundedness**.
 - Built structured JSON extraction for financial KPIs (Revenue, Net Income, Cash Flow) at **93% F1 score**.
