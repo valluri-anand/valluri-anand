@@ -24,19 +24,7 @@
 
 ### 💫 About Me
 
-I am working as an **AI Engineer with 2.5+ years of experience at Accenture**, specializing in building and deploying production-grade **Generative AI, Multi-Agent Systems, and enterprise RAG architectures** across Microsoft Azure and cloud platforms. Specialized in multi-agent workflows using **LangGraph** and **LangChain**, with deep hands-on expertise in LLM orchestration, **Azure OpenAI (GPT-4o, GPT-5)**, **Azure AI Search**, semantic reranking, hybrid retrieval (Dense Vector + BM25), tool calling, **Model Context Protocol (MCP)**, and LLM security guardrails.<br><br>
-Experienced in designing end-to-end AI solutions integrating large language models with vector databases, Copilot Studio, and unstructured enterprise documents. Proven track record of improving retrieval accuracy by **~35%**, reducing hallucinations by **~40%**, and cutting incident turnaround times by **~75%** through automated agentic workflows and high-precision RAG pipelines.<br><br>
-Strong engineering foundation in **Python, FastAPI, Docker, CI/CD, Microsoft Fabric, PySpark, PostgreSQL**, and cloud-native AI infrastructure. Experienced in automated LLM evaluation using **RAGAS and LangSmith**, evaluating metrics such as context precision, context recall, faithfulness, and answer relevancy. Backed by **11x Microsoft Certifications** and a peer-reviewed research publication in **Springer LNNS (Scopus-indexed ICDAM 2023)**.
-
----
-
-### 🚀 Key Highlights & Production Impact
-
-- ⚡ **Production Impact**: Deployed GenAI agents in Copilot Studio automating resolution for **500+ tickets/month**, slashing turnaround by **75%** and reducing incidents by **35%** via automated root-cause analysis.
-- 🧠 **Agentic Orchestration**: Designed multi-agent LLM systems with **LangGraph**, **LangChain**, **Model Context Protocol (MCP)**, and **Copilot Studio** with reliable task handoffs and autonomous tool usage.
-- 🔍 **High-Precision RAG**: Engineered hybrid retrieval (Vector + BM25) on **Azure AI Search** & **Azure OpenAI**, boosting response accuracy by **35%** and cutting hallucinations by **40%**.
-- 🛡️ **LLM Security & Guardrails**: Enforced multi-layer security (input filtering, retrieved context RBAC, prompt-injection shielding) and automated evals using **RAGAS** & **LangSmith**.
-- 📜 **Credentials**: **11 Microsoft Credentials** spanning Azure Cloud, AI Engineering, Data Engineering, and Security.
+I am working as an **AI Engineer with 2.5+ years of experience at Accenture**, building and deploying production-grade **Generative AI and Agentic AI systems** across Microsoft Azure and enterprise cloud platforms. Specialized in multi-agent RAG architectures using **LangGraph** and **LangChain**, with hands-on expertise in LLM orchestration, **Azure OpenAI (GPT-4o, GPT-5)**, **Azure AI Search**, semantic reranking, hybrid retrieval (Dense Vector + BM25), tool calling, **Model Context Protocol (MCP)**, and LLM security guardrails.<br>Experienced in designing end-to-end AI solutions integrating GPT-4o, GPT-5, and open-weight models with vector databases, Copilot Studio, and unstructured enterprise documents. Proven track record of improving retrieval accuracy by **~35%**, reducing hallucinations by **~40%**, and cutting incident turnaround times by **~75%** through automated agentic workflows and high-precision RAG pipelines.<br>Strong engineering foundation in **Python, FastAPI, Docker, CI/CD, Microsoft Fabric, PySpark, PostgreSQL**, and cloud-native AI infrastructure on Azure. Experienced in automated LLM evaluation using **RAGAS and LangSmith**, with a focus on metrics such as context precision, context recall, faithfulness, and answer relevancy. Skilled in building secure, scalable, and reliable AI applications with **13x Microsoft Certifications**, an **Accenture Agentic AI Credly credential**, and a research publication in **Springer Nature LNNS (Scopus-indexed ICDAM 2023)**.<br>Open to opportunities as an **Applied AI / GenAI Engineer**, where I can contribute to building impactful, scalable AI products and enterprise-grade intelligent systems.
 
 ---
 
@@ -190,10 +178,10 @@ Strong engineering foundation in **Python, FastAPI, Docker, CI/CD, Microsoft Fab
 
 ### 💬 Let's Connect & Collaborate
 
-- 🚀 **Currently Building**: Autonomous multi-agent pipelines with **LangGraph**, **Model Context Protocol (MCP)**, and enterprise vector search on Azure.
-- 💡 **Ask Me About**: Production RAG architectures, reducing LLM hallucinations, hybrid search (Vector + BM25), semantic reranking, and Microsoft Fabric.
-- 🎯 **Career Availability**: Actively open to **Senior AI Engineer / GenAI Specialist** opportunities.
-- 📬 **Reach Out**: Feel free to connect via [LinkedIn](https://www.linkedin.com/in/valluri-anand-8544aa234) or email directly at [vanand6701@gmail.com](mailto:vanand6701@gmail.com).
+- 🤝 **Collaboration & Ideas**: Open to exchanging ideas on agentic design patterns, enterprise evaluation frameworks, and high-performance search.
+- 💬 **Discussions**: Always happy to discuss AI architecture, benchmark strategies, and emerging tech stacks.
+- 🎯 **Career Opportunities**: Actively exploring impactful roles as an **Applied AI / GenAI Engineer**.
+- 📬 **Get In Touch**: Connect on [LinkedIn](https://www.linkedin.com/in/valluri-anand-8544aa234) or write directly to [vanand6701@gmail.com](mailto:vanand6701@gmail.com).
 
 ---
 
