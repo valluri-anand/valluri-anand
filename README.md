@@ -125,6 +125,7 @@ Strong engineering foundation in **Python, FastAPI, Docker, CI/CD, Microsoft Fab
 > **Machine Learning • Predictive Analytics • Springer LNNS (Scopus Indexed) • ICDAM 2023**
 - Designed a peer-reviewed predictive NLP classification model for early anomaly detection published in **Springer Lecture Notes in Networks and Systems (LNNS)**.
 - Engineered specialized linguistic features and sentiment vectors to identify risk patterns across large-scale textual sequences.
+- Indexed in **Scopus** and published under Springer Nature proceedings.
 
 ---
 
@@ -161,6 +162,12 @@ Strong engineering foundation in **Python, FastAPI, Docker, CI/CD, Microsoft Fab
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://learn.microsoft.com/users/vallurianand/" target="_blank">
+    <img src="https://img.shields.io/badge/Verified%20Credentials-Microsoft%20Learn%20Transcript-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Verify Microsoft Credentials" />
+  </a>
+</p>
+
 ---
 
 ### 📊 GitHub Activity & Real-Time Stats
@@ -173,6 +180,14 @@ Strong engineering foundation in **Python, FastAPI, Docker, CI/CD, Microsoft Fab
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vallurianand01-commits&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=60A5FA&currStreakNum=38BDF8" alt="GitHub Streak Stats" />
 </p>
+---
+
+### 💬 Let's Connect & Collaborate
+
+- 🚀 **Currently Building**: Autonomous multi-agent pipelines with **LangGraph**, **Model Context Protocol (MCP)**, and enterprise vector search on Azure.
+- 💡 **Ask Me About**: Production RAG architectures, reducing LLM hallucinations, hybrid search (Vector + BM25), semantic reranking, and Microsoft Fabric.
+- 🎯 **Career Availability**: Actively open to **Senior AI Engineer / GenAI Specialist** opportunities.
+- 📬 **Reach Out**: Feel free to connect via [LinkedIn](https://www.linkedin.com/in/valluri-anand-8544aa234) or email directly at [vanand6701@gmail.com](mailto:vanand6701@gmail.com).
 
 ---
 
