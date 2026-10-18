@@ -141,7 +141,7 @@ Strong engineering foundation in **Python, FastAPI, Docker, CI/CD, Microsoft Fab
       • <b>DP-600:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/" target="_blank">Fabric Analytics Engineer Associate</a><br/>
       • <b>PL-300:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/" target="_blank">Power BI Data Analyst Associate</a><br/>
       • <b>AZ-204:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/" target="_blank">Developing Solutions for Microsoft Azure</a><br/>
-      • <b>AZ-104:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/" target="_blank">Microsoft Azure Administrator</a><br/>
+      • <b>AZ-104:</b> <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials/D9F2C98FF4015CD6" target="_blank">Microsoft Azure Administrator</a><br/>
       • <b>AZ-500:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/" target="_blank">Microsoft Azure Security Technologies</a>
     </td>
   </tr>
