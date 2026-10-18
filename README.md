@@ -103,7 +103,7 @@ AI Engineer with **2.5 YOE at Accenture** specializing in architecting and shipp
 - Built structured JSON extraction for financial KPIs (Revenue, Net Income, Cash Flow) at **93% F1 score**.
 - Architected high-throughput FastAPI service (**25 req/sec**) with a PostgreSQL caching layer cutting LLM token costs by **35%**; deployed on **AKS with 99.9% availability**.
 
-#### ✈️ AI-Powered Travel Assistant
+#### ✈️ [Enterprise Travel Intelligence RAG Assistant](https://github.com/vallurianand01-commits/enterprise-travel-rag-assistant)
 > **Cognitive Search • OCR • Entity Extraction • Flask • GPT-4o**
 - Indexed **50,000+ unstructured travel documents** with Azure Cognitive Skillsets (OCR, language detection, entity resolution).
 - Reduced information synthesis time from 15 minutes to under **10 seconds** at **90%+ context accuracy**.
