@@ -9,7 +9,8 @@
   </a>
   <a href="mailto:vanand6701@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-vanand6701@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials?tab=credentials-tab" target="_blank">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/transcript?tab=credentials-tab" target="_blank">
     <img src="https://img.shields.io/badge/Certifications-11x%20Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="11x Microsoft Certified" />
   </a>
   <img src="https://img.shields.io/badge/Accenture-ACE_Achiever-A100FF?style=for-the-badge&logo=accenture&logoColor=white" alt="Accenture ACE Achiever" />
@@ -161,10 +162,10 @@ Strong engineering foundation in **Python, FastAPI, Docker, CI/CD, Microsoft Fab
 </table>
 
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials?tab=credentials-tab" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/transcript?tab=credentials-tab" target="_blank">
     <img src="https://img.shields.io/badge/Verified%20Credentials-vallurianand--0832%20on%20Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Verify Microsoft Credentials on Microsoft Learn" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/transcript" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/transcript?tab=credentials-tab" target="_blank">
     <img src="https://img.shields.io/badge/Official%20Transcript-View%20Full%20Transcript-23272F?style=for-the-badge&logo=microsoft&logoColor=white" alt="View Official Transcript" />
   </a>
 </p>
