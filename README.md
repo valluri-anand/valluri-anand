@@ -9,8 +9,9 @@
   </a>
   <a href="mailto:vanand6701@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-vanand6701@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials?tab=credentials-tab" target="_blank">
+    <img src="https://img.shields.io/badge/Certifications-11x%20Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="11x Microsoft Certified" />
   </a>
-  <img src="https://img.shields.io/badge/Certifications-11x%20Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="11x Microsoft Certified" />
   <img src="https://img.shields.io/badge/Accenture-ACE_Achiever-A100FF?style=for-the-badge&logo=accenture&logoColor=white" alt="Accenture ACE Achiever" />
   <img src="https://img.shields.io/badge/Research-Springer_Published-001F54?style=for-the-badge&logo=springer&logoColor=white" alt="Springer Published" />
 </p>
@@ -136,19 +137,19 @@ Strong engineering foundation in **Python, FastAPI, Docker, CI/CD, Microsoft Fab
   <tr>
     <td><b>Role-Based (Microsoft)</b></td>
     <td>
-      • <b>DP-600:</b> Fabric Analytics Engineer Associate<br/>
-      • <b>PL-300:</b> Power BI Data Analyst Associate<br/>
-      • <b>AZ-204:</b> Developing Solutions for Microsoft Azure<br/>
-      • <b>AZ-104:</b> Microsoft Azure Administrator<br/>
-      • <b>AZ-500:</b> Microsoft Azure Security Technologies
+      • <b>DP-600:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/" target="_blank">Fabric Analytics Engineer Associate</a><br/>
+      • <b>PL-300:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/" target="_blank">Power BI Data Analyst Associate</a><br/>
+      • <b>AZ-204:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/" target="_blank">Developing Solutions for Microsoft Azure</a><br/>
+      • <b>AZ-104:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/" target="_blank">Microsoft Azure Administrator</a><br/>
+      • <b>AZ-500:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/" target="_blank">Microsoft Azure Security Technologies</a>
     </td>
   </tr>
   <tr>
     <td><b>Fundamentals (Microsoft)</b></td>
     <td>
-      • <b>AZ-900:</b> Azure Fundamentals &nbsp;|&nbsp; <b>DP-900:</b> Azure Data Fundamentals<br/>
-      • <b>SC-900:</b> Security, Compliance & Identity &nbsp;|&nbsp; <b>MS-900:</b> Microsoft 365 Fundamentals<br/>
-      • <b>MB-910:</b> Dynamics 365 Fundamentals (CRM) &nbsp;|&nbsp; <b>MB-920:</b> Dynamics 365 Fundamentals (ERP)
+      • <b>AZ-900:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/" target="_blank">Azure Fundamentals</a> &nbsp;|&nbsp; <b>DP-900:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/" target="_blank">Azure Data Fundamentals</a><br/>
+      • <b>SC-900:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/" target="_blank">Security, Compliance & Identity</a> &nbsp;|&nbsp; <b>MS-900:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/" target="_blank">Microsoft 365 Fundamentals</a><br/>
+      • <b>MB-910:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm/" target="_blank">Dynamics 365 Fundamentals (CRM)</a> &nbsp;|&nbsp; <b>MB-920:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/d365-fundamentals-finance-and-operations-apps-erp/" target="_blank">Dynamics 365 Fundamentals (ERP)</a>
     </td>
   </tr>
   <tr>
@@ -160,8 +161,11 @@ Strong engineering foundation in **Python, FastAPI, Docker, CI/CD, Microsoft Fab
 </table>
 
 <p align="center">
-  <a href="https://learn.microsoft.com/users/vallurianand/" target="_blank">
-    <img src="https://img.shields.io/badge/Verified%20Credentials-Microsoft%20Learn%20Transcript-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Verify Microsoft Credentials" />
+  <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials?tab=credentials-tab" target="_blank">
+    <img src="https://img.shields.io/badge/Verified%20Credentials-vallurianand--0832%20on%20Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Verify Microsoft Credentials on Microsoft Learn" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/transcript" target="_blank">
+    <img src="https://img.shields.io/badge/Official%20Transcript-View%20Full%20Transcript-23272F?style=for-the-badge&logo=microsoft&logoColor=white" alt="View Official Transcript" />
   </a>
 </p>
 
