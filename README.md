@@ -12,9 +12,12 @@
   </a>
   <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/transcript?tab=credentials-tab" target="_blank">
     <img src="https://img.shields.io/badge/Certifications-11x%20Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="11x Microsoft Certified" />
+  <a href="https://www.credly.com/badges/20c9a1d0-8855-4d6b-a8d0-0cb998ecdf46" target="_blank">
+    <img src="https://img.shields.io/badge/Accenture-Agentic_AI_Certified-A100FF?style=for-the-badge&logo=accenture&logoColor=white" alt="Accenture Agentic AI Certified" />
   </a>
-  <img src="https://img.shields.io/badge/Accenture-ACE_Achiever-A100FF?style=for-the-badge&logo=accenture&logoColor=white" alt="Accenture ACE Achiever" />
-  <img src="https://img.shields.io/badge/Research-Springer_Published-001F54?style=for-the-badge&logo=springer&logoColor=white" alt="Springer Published" />
+  <a href="https://link.springer.com/chapter/10.1007/978-981-99-6544-1_13" target="_blank">
+    <img src="https://img.shields.io/badge/Research-Springer_Published-001F54?style=for-the-badge&logo=springer&logoColor=white" alt="Springer Published" />
+  </a>
 </p>
 
 ---
@@ -120,11 +123,11 @@ Strong engineering foundation in **Python, FastAPI, Docker, CI/CD, Microsoft Fab
 - Built an enterprise Medallion Lakehouse transforming multi-source operational data through Bronze, Silver, and Gold delta layers.
 - Automated data quality assertions using PySpark, eliminating **4 hours of manual reporting weekly** with **99.5% pipeline reliability**.
 
-#### 📄 [Early-Warning Predictive NLP Classifier](https://link.springer.com/)
+#### 📄 [Early-Warning Predictive NLP Classifier](https://link.springer.com/chapter/10.1007/978-981-99-6544-1_13)
 > **Machine Learning • Predictive Analytics • Springer LNNS (Scopus Indexed) • ICDAM 2023**
 - Designed a peer-reviewed predictive NLP classification model for early anomaly detection published in **Springer Lecture Notes in Networks and Systems (LNNS)**.
 - Engineered specialized linguistic features and sentiment vectors to identify risk patterns across large-scale textual sequences.
-- Indexed in **Scopus** and published under Springer Nature proceedings.
+- Indexed in **Scopus** and published under Springer Nature proceedings ([Chapter 13](https://link.springer.com/chapter/10.1007/978-981-99-6544-1_13)).
 
 ---
 
@@ -138,25 +141,26 @@ Strong engineering foundation in **Python, FastAPI, Docker, CI/CD, Microsoft Fab
   <tr>
     <td><b>Role-Based (Microsoft)</b></td>
     <td>
-      • <b>DP-600:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/" target="_blank">Fabric Analytics Engineer Associate</a><br/>
-      • <b>PL-300:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/" target="_blank">Power BI Data Analyst Associate</a><br/>
-      • <b>AZ-204:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/" target="_blank">Developing Solutions for Microsoft Azure</a><br/>
+      • <b>DP-600:</b> <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials/97B1D889CD800BB3" target="_blank">Fabric Analytics Engineer Associate</a><br/>
+      • <b>PL-300:</b> <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials/79D4CD989AAB4D9D" target="_blank">Power BI Data Analyst Associate</a><br/>
+      • <b>AZ-204:</b> <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials/EFCE3126635F8989" target="_blank">Developing Solutions for Microsoft Azure</a><br/>
       • <b>AZ-104:</b> <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials/D9F2C98FF4015CD6" target="_blank">Microsoft Azure Administrator</a><br/>
-      • <b>AZ-500:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/" target="_blank">Microsoft Azure Security Technologies</a>
+      • <b>AZ-500:</b> <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials/CBF829F4F35D6B56" target="_blank">Microsoft Azure Security Technologies</a>
     </td>
   </tr>
   <tr>
     <td><b>Fundamentals (Microsoft)</b></td>
     <td>
-      • <b>AZ-900:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/" target="_blank">Azure Fundamentals</a> &nbsp;|&nbsp; <b>DP-900:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/" target="_blank">Azure Data Fundamentals</a><br/>
-      • <b>SC-900:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/" target="_blank">Security, Compliance & Identity</a> &nbsp;|&nbsp; <b>MS-900:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/" target="_blank">Microsoft 365 Fundamentals</a><br/>
-      • <b>MB-910:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm/" target="_blank">Dynamics 365 Fundamentals (CRM)</a> &nbsp;|&nbsp; <b>MB-920:</b> <a href="https://learn.microsoft.com/en-us/credentials/certifications/d365-fundamentals-finance-and-operations-apps-erp/" target="_blank">Dynamics 365 Fundamentals (ERP)</a>
+      • <b>AI-900:</b> <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials/FD9D0FDFBD124D22" target="_blank">Azure AI Fundamentals</a> &nbsp;|&nbsp; <b>AZ-900:</b> <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials/2AA2333E7B5948E1" target="_blank">Azure Fundamentals</a><br/>
+      • <b>DP-900:</b> <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials/24164F6AE8739B6A" target="_blank">Azure Data Fundamentals</a> &nbsp;|&nbsp; <b>SC-900:</b> <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials/112BA5B40C4E596F" target="_blank">Security, Compliance & Identity</a><br/>
+      • <b>PL-900:</b> <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials/E632F555F73A5B4" target="_blank">Power Platform Fundamentals</a> &nbsp;|&nbsp; <b>MS-900:</b> <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials/52E6ED2289FAF469" target="_blank">Microsoft 365 Fundamentals</a><br/>
+      • <b>MB-910:</b> <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials/BC2C5E4E367E4B1D" target="_blank">Dynamics 365 Fundamentals (CRM)</a> &nbsp;|&nbsp; <b>MB-920:</b> <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/credentials/5B563605567358BC" target="_blank">Dynamics 365 Fundamentals (ERP)</a>
     </td>
   </tr>
   <tr>
-    <td><b>Specialized AI</b></td>
+    <td><b>Specialized AI & Professional</b></td>
     <td>
-      • <b>Accenture Agentic AI Certificate:</b> Generative AI, Autonomous Agents & Multi-Agent Orchestration
+      • <b>Accenture Agentic AI Certificate:</b> <a href="https://www.credly.com/badges/20c9a1d0-8855-4d6b-a8d0-0cb998ecdf46" target="_blank">Reinvention with Agentic AI (Credly Verified)</a>
     </td>
   </tr>
 </table>
