@@ -99,14 +99,14 @@ I am working as an **AI Engineer with 2.5+ years of experience at Accenture**, b
 
 ### 🌟 Featured Projects & Implementations
 
-#### 📈 [AI-Powered Financial Intelligence Platform](https://github.com/vallurianand01-commits/ai-business-intelligent-platform-)
+#### 📈 [AI-Powered Financial Intelligence Platform](https://github.com/valluri-anand/ai-business-intelligent-platform-)
 > **Enterprise RAG • Azure OpenAI (GPT-5) • Azure AI Search • FastAPI • PostgreSQL • AKS**
 - Ingested **150+ financial reports (12,000+ pages)** into structured Markdown, maintaining multi-level tables and financial context.
 - Engineered a hybrid semantic search pipeline achieving **92% retrieval accuracy** and **94% context groundedness**.
 - Built structured JSON extraction for financial KPIs (Revenue, Net Income, Cash Flow) at **93% F1 score**.
 - Architected high-throughput FastAPI service (**25 req/sec**) with a PostgreSQL caching layer cutting LLM token costs by **35%**; deployed on **AKS with 99.9% availability**.
 
-#### ✈️ [Enterprise Travel Intelligence RAG Assistant](https://github.com/vallurianand01-commits/enterprise-travel-rag-assistant)
+#### ✈️ [Enterprise Travel Intelligence RAG Assistant](https://github.com/valluri-anand/enterprise-travel-rag-assistant)
 > **True Hybrid Search • Azure AI Search • Semantic Reranking (L2) • GPT-4o • Flask • RAGAS Benchmark**
 - Engineered an end-to-end multi-modal RAG platform indexing unstructured travel documentation with **Azure Cognitive Skillsets** (OCR for scanned itineraries, NER for hubs/dates).
 - Combines **Dense Vectors** (`text-embedding-3-small`), **BM25 Inverted Index**, and **Azure Semantic Reranker** into a unified retrieval pipeline.
@@ -174,12 +174,12 @@ I am working as an **AI Engineer with 2.5+ years of experience at Accenture**, b
 ### 📊 GitHub Activity & Real-Time Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vallurianand01-commits&show_icons=true&theme=tokyonight&title_color=38bdf8&icon_color=60a5fa&text_color=e2e8f0&hide_border=true&bg_color=0d1117&count_private=true" alt="Valluri Anand's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vallurianand01-commits&layout=compact&theme=tokyonight&title_color=38bdf8&icon_color=60a5fa&text_color=e2e8f0&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=valluri-anand&show_icons=true&theme=tokyonight&title_color=38bdf8&icon_color=60a5fa&text_color=e2e8f0&hide_border=true&bg_color=0d1117&count_private=true" alt="Valluri Anand's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=valluri-anand&layout=compact&theme=tokyonight&title_color=38bdf8&icon_color=60a5fa&text_color=e2e8f0&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vallurianand01-commits&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=60A5FA&currStreakNum=38BDF8" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=valluri-anand&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=60A5FA&currStreakNum=38BDF8" alt="GitHub Streak Stats" />
 </p>
 ---
 
@@ -204,10 +204,10 @@ I am working as an **AI Engineer with 2.5+ years of experience at Accenture**, b
   <i>💡 "Engineering autonomous agents and intelligent RAG systems with enterprise-grade reliability and security."</i>
 </p>
 <p align="center">
-  <a href="https://github.com/vallurianand01-commits">
-    <img src="https://komarev.com/ghpvc/?username=vallurianand01-commits&color=0078D4&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://github.com/valluri-anand">
+    <img src="https://komarev.com/ghpvc/?username=valluri-anand&color=0078D4&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </a>
 </p>
 <p align="center">
-  ⭐️ <i>Designed & Maintained by <a href="https://github.com/vallurianand01-commits">Valluri Anand</a></i>
+  ⭐️ <i>Designed & Maintained by <a href="https://github.com/valluri-anand">Valluri Anand</a></i>
 </p>
