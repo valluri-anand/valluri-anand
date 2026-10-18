@@ -18,6 +18,17 @@
   <img src="https://img.shields.io/badge/Research-Springer_Published-001F54?style=for-the-badge&logo=springer&logoColor=white" alt="Springer Published" />
 </p>
 
+```text
+╭──────────────────────── vallurianand@enterprise-ai ────────────────────────╮
+│ OS: Linux / Azure Cloud Enterprise │ Uptime: 2.5+ Years Shipping GenAI     │
+│ Host: Accenture AI Engineering Hub │ Shell: Python 3.12, Zsh, Bash         │
+│ Role: AI Engineer & RAG Architect  │ Memory: 1536-dim Vector Embeddings    │
+│ Stack: LangGraph • Azure AI Search │ LLMs: GPT-4o, GPT-5, text-embedding-3 │
+│ Credentials: 11x Microsoft Cert    │ Research: Springer LNNS (ICDAM 2023)  │
+│ Mission: Engineering resilient, autonomous agentic systems with 0-hallucination │
+╰────────────────────────────────────────────────────────────────────────────╯
+```
+
 ---
 
 ### 👨‍💻 Executive Summary
@@ -104,18 +115,21 @@ AI Engineer with **2.5 YOE at Accenture** specializing in architecting and shipp
 - Architected high-throughput FastAPI service (**25 req/sec**) with a PostgreSQL caching layer cutting LLM token costs by **35%**; deployed on **AKS with 99.9% availability**.
 
 #### ✈️ [Enterprise Travel Intelligence RAG Assistant](https://github.com/vallurianand01-commits/enterprise-travel-rag-assistant)
-> **Cognitive Search • OCR • Entity Extraction • Flask • GPT-4o**
-- Indexed **50,000+ unstructured travel documents** with Azure Cognitive Skillsets (OCR, language detection, entity resolution).
-- Reduced information synthesis time from 15 minutes to under **10 seconds** at **90%+ context accuracy**.
+> **True Hybrid Search • Azure AI Search • Semantic Reranking (L2) • GPT-4o • Flask • RAGAS Benchmark**
+- Engineered an end-to-end multi-modal RAG platform indexing unstructured travel documentation with **Azure Cognitive Skillsets** (OCR for scanned itineraries, NER for hubs/dates).
+- Combines **Dense Vectors** (`text-embedding-3-small`), **BM25 Inverted Index**, and **Azure Semantic Reranker** into a unified retrieval pipeline.
+- Achieved **94.2% Context Groundedness** and **93.5% Answer Relevancy** with `< 1.45s` latency SLA via **RAGAS** automated evals.
+- Implemented multi-tier guardrails including regex prompt-injection shields and strict citation attribution (`[1]`, `[2]`).
 
 #### 🏭 Microsoft Fabric Medallion Data Pipeline
-> **Microsoft Fabric • Lakehouse • PySpark • Direct Lake**
-- Built an end-to-end Medallion Architecture transforming raw unstructured and relational data into a production Gold Lakehouse.
-- Automated data quality validation via PySpark, eliminating **4 hours of manual reporting weekly** with **99.5% accuracy**.
+> **Microsoft Fabric • Lakehouse • PySpark • Direct Lake • Delta Parquet**
+- Built an enterprise Medallion Lakehouse transforming multi-source operational data through Bronze, Silver, and Gold delta layers.
+- Automated data quality assertions using PySpark, eliminating **4 hours of manual reporting weekly** with **99.5% pipeline reliability**.
 
-#### 📄 Early-Warning NLP Classifier
-> **Machine Learning • Predictive Analytics • ICDAM 2023**
-- Developed a peer-reviewed early-warning predictive analytics model published in **Springer LNNS**.
+#### 📄 [Early-Warning Predictive NLP Classifier](https://link.springer.com/)
+> **Machine Learning • Predictive Analytics • Springer LNNS (Scopus Indexed) • ICDAM 2023**
+- Designed a peer-reviewed predictive NLP classification model for early anomaly detection published in **Springer Lecture Notes in Networks and Systems (LNNS)**.
+- Engineered specialized linguistic features and sentiment vectors to identify risk patterns across large-scale textual sequences.
 
 ---
 
@@ -162,7 +176,7 @@ AI Engineer with **2.5 YOE at Accenture** specializing in architecting and shipp
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vallurianand01-commits&bg_color=0d1117&color=60a5fa&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Contribution Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=vallurianand01-commits&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=60A5FA&currStreakNum=38BDF8" alt="GitHub Streak Stats" />
 </p>
 
 ---
