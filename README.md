@@ -3,23 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&height=45&lines=AI+Engineer+%40+Accenture+%7C+2.5%2B+Years+Shipping+GenAI;Architecting+Multi-Agent+Workflows+%26+Enterprise+RAG;Azure+OpenAI+%7C+LangGraph+%7C+AI+Search+%7C+Copilot+Studio;13x+Microsoft+Certified+Professional;Springer+Published+Researcher+%26+ACE+Achiever" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/valluri-anand-8544aa234" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Valluri_Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vanand6701@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-vanand6701@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/transcript?tab=credentials-tab" target="_blank">
-    <img src="https://img.shields.io/badge/Certifications-13x%20Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="13x Microsoft Certified" />
-  </a>
-  <a href="https://www.credly.com/badges/20c9a1d0-8855-4d6b-a8d0-0cb998ecdf46" target="_blank">
-    <img src="https://img.shields.io/badge/Accenture-Agentic_AI_Certified-A100FF?style=for-the-badge&logo=accenture&logoColor=white" alt="Accenture Agentic AI Certified" />
-  </a>
-  <a href="https://link.springer.com/chapter/10.1007/978-981-99-6544-1_13" target="_blank">
-    <img src="https://img.shields.io/badge/Research-Springer_Published-001F54?style=for-the-badge&logo=springer&logoColor=white" alt="Springer Published" />
-  </a>
-</p>
 
 ---
 
@@ -92,6 +75,25 @@ I am working as an **AI Engineer with 2.5+ years of experience at Accenture**, b
     </td>
   </tr>
 </table>
+
+---
+<p align="center">
+  <a href="https://www.linkedin.com/in/valluri-anand-8544aa234" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Valluri_Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vanand6701@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-vanand6701@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/vallurianand-0832/transcript?tab=credentials-tab" target="_blank">
+    <img src="https://img.shields.io/badge/Certifications-13x%20Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="13x Microsoft Certified" />
+  </a>
+  <a href="https://www.credly.com/badges/20c9a1d0-8855-4d6b-a8d0-0cb998ecdf46" target="_blank">
+    <img src="https://img.shields.io/badge/Accenture-Agentic_AI_Certified-A100FF?style=for-the-badge&logo=accenture&logoColor=white" alt="Accenture Agentic AI Certified" />
+  </a>
+  <a href="https://link.springer.com/chapter/10.1007/978-981-99-6544-1_13" target="_blank">
+    <img src="https://img.shields.io/badge/Research-Springer_Published-001F54?style=for-the-badge&logo=springer&logoColor=white" alt="Springer Published" />
+  </a>
+</p>
 
 ---
 
