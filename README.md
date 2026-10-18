@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=180&section=header&text=Valluri%20Anand&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Valluri Anand Banner" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&height=45&lines=AI+Engineer+%40+Accenture+%7C+2.5%2B+Years+Shipping+GenAI;Architecting+Multi-Agent+Workflows+%26+Enterprise+RAG;Azure+OpenAI+%7C+LangGraph+%7C+AI+Search+%7C+Copilot+Studio;11x+Microsoft+Certified+Professional;Springer+Published+Researcher+%26+ACE+Achiever" alt="Typing SVG" />
