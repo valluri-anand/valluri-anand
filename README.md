@@ -18,17 +18,6 @@
   <img src="https://img.shields.io/badge/Research-Springer_Published-001F54?style=for-the-badge&logo=springer&logoColor=white" alt="Springer Published" />
 </p>
 
-```text
-╭──────────────────────── vallurianand@enterprise-ai ────────────────────────╮
-│ OS: Linux / Azure Cloud Enterprise │ Uptime: 2.5+ Years Shipping GenAI     │
-│ Host: Accenture AI Engineering Hub │ Shell: Python 3.12, Zsh, Bash         │
-│ Role: AI Engineer & RAG Architect  │ Memory: 1536-dim Vector Embeddings    │
-│ Stack: LangGraph • Azure AI Search │ LLMs: GPT-4o, GPT-5, text-embedding-3 │
-│ Credentials: 11x Microsoft Cert    │ Research: Springer LNNS (ICDAM 2023)  │
-│ Mission: Engineering resilient, autonomous agentic systems with 0-hallucination │
-╰────────────────────────────────────────────────────────────────────────────╯
-```
-
 ---
 
 ### 💫 About Me
